@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Momento Game",
+  "name": "Simple Memory Game - React",
   "icons": [
     {
       "src": "favicon.ico",
